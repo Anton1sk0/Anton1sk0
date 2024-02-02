@@ -13,7 +13,7 @@ An undergraduate software development student at the Kapodistrian university of 
 
  <h3 align="center">Languages and Databases:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,react,mongodb,postgres,java,sql,bash" />
+    <img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,react,mongodb,postgres,java,bash,springboot" />
 </p>
 
 
