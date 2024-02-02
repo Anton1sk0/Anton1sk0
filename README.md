@@ -17,7 +17,7 @@ An undergraduate software development student at the Kapodistrian university of 
 <img align="left" alt="HTML5" width="50px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
 <img align="left" alt="CSS3" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />
 <img align="left" alt="Postman" width="100px" src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" />
-<img align="left" alt="Maven" width="70px" src="https://e7.pngegg.com/pngimages/917/651/png-clipart-apache-maven-feathers-tech-companies.png" />
+<img align="left" alt="Maven" width="70px" src="https://static-00.iconduck.com/assets.00/maven-icon-1152x2048-p475j6s5.png" />
 <img align="left" alt="Nginx" width="80px" src="https://1000logos.net/wp-content/uploads/2020/08/Nginx-Symbol.jpg" />
 <img align="left" alt="Docker" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVfsjC8Z5xMhB0eqDvN_5_zET7Qw2p9Y83Vg&usqp=CAU" />
 <img align="left" alt="ReactJS" width="70px" src="https://zeroheight-wordpress-uploads.s3.amazonaws.com/wp-content/uploads/2023/01/small-icon_react-2.png" />
