@@ -20,7 +20,7 @@ An undergraduate software development student at the Kapodistrian university of 
 
 <h3 align="center">Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,postman,git,gcp,idea,kafka,,linux,maven,nginx,vim," />
+    <img src="https://skillicons.dev/icons?i=docker,postman,git,gcp,idea,kafka,linux,maven,nginx,vim," />
   </a>
 </p>
 
