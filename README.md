@@ -11,11 +11,7 @@ An undergraduate software development student at the Kapodistrian university of 
 
 [linkedin]: https://www.linkedin.com/in/antonis-koukouzas-39a2a3285/
 
-<h3 align="center">Languages and Databases:</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,react,mongodb,postgres" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,react,mongodb,postgres,java,sql,bash" />
 </p>
-
 
 <br clear="left"/>
