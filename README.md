@@ -16,14 +16,16 @@ An undergraduate software development student at the Kapodistrian university of 
 <img align="left" alt="Python" width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="HTML5" width="50px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
 <img align="left" alt="CSS3" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />
-<img align="left" alt="Postman" width="50px" src="URL_FOR_POSTMAN_ICON" />
-<img align="left" alt="Maven" width="50px" src="URL_FOR_MAVEN_ICON" />
-<img align="left" alt="Nginx" width="50px" src="URL_FOR_NGINX_ICON" />
-<img align="left" alt="Docker" width="50px" src="https://www.ianlewis.org/assets/images/docker/large_v-trans.png" />
-<img align="left" alt="ReactJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
-<img align="left" alt="Spring Boot" width="50px" src="URL_FOR_SPRING_BOOT_ICON" />
-<img align="left" alt="C" width="50px" src="URL_FOR_C_ICON" />
-<img align="left" alt="C++" width="50px" src="URL_FOR_C++_ICON" />
-<img align="left" alt="Google Cloud" width="50px" src="URL_FOR_GOOGLE_CLOUD_ICON" />
+<img align="left" alt="Postman" width="50px" src="https://assets.stickpng.com/images/62cc1b3a150d5de9a3dad5f7.png" />
+<img align="left" alt="Maven" width="50px" src="https://e7.pngegg.com/pngimages/917/651/png-clipart-apache-maven-feathers-tech-companies.png" />
+<img align="left" alt="Nginx" width="50px" src="https://w7.pngwing.com/pngs/816/934/png-transparent-nginx-hd-logo-thumbnail.png" />
+<img align="left" alt="Docker" width="50px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
+<img align="left" alt="ReactJS" width="50px" src=https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" />
+<img align="left" alt="Spring Boot" width="50px" src="https://image.pngaaa.com/546/2459546-middle.png" />
+<img align="left" alt="C" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
+<img align="left" alt="C++" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="Google Cloud" width="50px" src="https://e7.pngegg.com/pngimages/777/274/png-clipart-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo.png" />
+<img align="left" alt="Kafka" width="50px" src="https://e7.pngegg.com/pngimages/630/547/png-clipart-kafka-vertical-logo-tech-companies-thumbnail.png" />
+
 
 <br clear="left"/>
