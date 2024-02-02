@@ -25,7 +25,7 @@ An undergraduate software development student at the Kapodistrian university of 
 <img align="left" alt="C" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 <img align="left" alt="C++" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Google Cloud" width="50px" src="https://e7.pngegg.com/pngimages/777/274/png-clipart-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo.png" />
-<img align="left" alt="Kafka" width="50px" src="https://images.app.goo.gl/K8mWHD1Nzbo3SH5Z7" />
+<img align="left" alt="Kafka" width="50px" src="https://static-00.iconduck.com/assets.00/kafka-icon-512x234-uqez3fj8.png" />
 
 
 <br clear="left"/>
