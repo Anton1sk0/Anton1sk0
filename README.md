@@ -21,11 +21,11 @@ An undergraduate software development student at the Kapodistrian university of 
 <img align="left" alt="Nginx" width="80px" src="https://1000logos.net/wp-content/uploads/2020/08/Nginx-Symbol.jpg" />
 <img align="left" alt="Docker" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVfsjC8Z5xMhB0eqDvN_5_zET7Qw2p9Y83Vg&usqp=CAU" />
 <img align="left" alt="ReactJS" width="70px" src="https://zeroheight-wordpress-uploads.s3.amazonaws.com/wp-content/uploads/2023/01/small-icon_react-2.png" />
-<img align="left" alt="Spring Boot" width="70px" src="https://image.pngaaa.com/546/2459546-middle.png" />
+<img align="left" alt="Spring Boot" width="70px" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" />
 <img align="left" alt="C" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 <img align="left" alt="C++" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="Google Cloud" width="70px" src="https://e7.pngegg.com/pngimages/777/274/png-clipart-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo.png" />
-<img align="left" alt="Kafka" width="70px" src="https://static-00.iconduck.com/assets.00/kafka-icon-512x234-uqez3fj8.png" />
+<img align="left" alt="Google Cloud" width="80px" src="https://e7.pngegg.com/pngimages/777/274/png-clipart-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo.png" />
+<img align="left" alt="Kafka" width="80px" src="https://static-00.iconduck.com/assets.00/kafka-icon-512x234-uqez3fj8.png" />
 
 
 <br clear="left"/>
