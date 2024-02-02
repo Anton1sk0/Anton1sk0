@@ -16,7 +16,7 @@ An undergraduate software development student at the Kapodistrian university of 
 <img align="left" alt="Python" width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="HTML5" width="50px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
 <img align="left" alt="CSS3" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />
-<img align="left" alt="Postman" width="70px" src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" />
+<img align="left" alt="Postman" width="90px" src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" />
 <img align="left" alt="Maven" width="70px" src="https://e7.pngegg.com/pngimages/917/651/png-clipart-apache-maven-feathers-tech-companies.png" />
 <img align="left" alt="Nginx" width="70px" src="https://w7.pngwing.com/pngs/816/934/png-transparent-nginx-hd-logo-thumbnail.png" />
 <img align="left" alt="Docker" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVfsjC8Z5xMhB0eqDvN_5_zET7Qw2p9Y83Vg&usqp=CAU" />
