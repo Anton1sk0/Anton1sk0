@@ -19,8 +19,8 @@ An undergraduate software development student at the Kapodistrian university of 
 <img align="left" alt="Postman" width="100px" src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" />
 <img align="left" alt="Maven" width="70px" src="https://e7.pngegg.com/pngimages/917/651/png-clipart-apache-maven-feathers-tech-companies.png" />
 <img align="left" alt="Nginx" width="80px" src="https://1000logos.net/wp-content/uploads/2020/08/Nginx-Symbol.jpg" />
-<img align="left" alt="Docker" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVfsjC8Z5xMhB0eqDvN_5_zET7Qw2p9Y83Vg&usqp=CAU" />
-<img align="left" alt="ReactJS" width="70px" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" />
+<img align="left" alt="Docker" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVfsjC8Z5xMhB0eqDvN_5_zET7Qw2p9Y83Vg&usqp=CAU" />
+<img align="left" alt="ReactJS" width="70px" src="https://zeroheight-wordpress-uploads.s3.amazonaws.com/wp-content/uploads/2023/01/small-icon_react-2.png" />
 <img align="left" alt="Spring Boot" width="70px" src="https://image.pngaaa.com/546/2459546-middle.png" />
 <img align="left" alt="C" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 <img align="left" alt="C++" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
